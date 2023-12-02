@@ -20,3 +20,7 @@ Each model is developed, trained, and tuned on the vaccination data, considering
 - The manually trained ARIMA model displayed the best performance in terms of RMSE.
 - Overfitting was a common challenge across multiple models.
 - Specific age groups' vaccination rates and manufacturers' data were crucial in predicting overall vaccination rates.
+<<<<<<< HEAD
+
+=======
+>>>>>>> main
